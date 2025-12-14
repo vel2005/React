@@ -89,7 +89,7 @@ const Footer = () => {
 
       <p>
         <a
-          href="https://github.com/vel2005"
+          href="https://github.com/vel2005/React"
           target="_blank"
           rel="noreferrer"
           className="source"
